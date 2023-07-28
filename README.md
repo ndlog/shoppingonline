@@ -1,12 +1,6 @@
 # shoppingonline
-Customer 
 
-  user: longkk
+  username: longkk
 
-  pass: 123
+  password: 123
 
-Admin
-
-  user: admin
-
-  pass: 123
